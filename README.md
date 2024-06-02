@@ -1,0 +1,1 @@
+A need to write a phrase in english, this phrase is " Este é o primeiro exercício do curso de FrontEnd que estou fazendo. Neste primeiro exercício precisei desenvolver um site simples utilizando apenas o HTM
